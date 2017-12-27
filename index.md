@@ -6,10 +6,10 @@ If you are not part of the group, bare in mind that these documents may seem str
 
 # The Party
 
-[Benjamin "The Bull" Bullwark](characters/benjamin.md)
-[Paul the Doomfist](characters/paul.md)
-[Della Hayden](characters/della.md)
-[Matias the Merchant](characters/matias.md)
+* [Benjamin "The Bull" Bullwark](characters/benjamin.md)
+* [Paul the Doomfist](characters/paul.md)
+* [Della Hayden](characters/della.md)
+* [Matias the Merchant](characters/matias.md)
 
 # Chapter 1: The Meeting at the Tavern
 
