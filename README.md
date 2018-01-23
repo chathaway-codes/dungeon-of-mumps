@@ -24,3 +24,12 @@ The first scene takes places in a tavern; Benjamin is sharing a tankard of ale w
 Matias is gambling in a corner, as a rogue is apt to do, when Della enters the tavern and spots the seasoned adventurers and strikes up a conversation.
 
 ## The Meeting at the Inn
+
+Della approaches Matias, who was gambling in a corner and attempts to recruit him to join her to explore the fortress nearby. As Ben and Paul listened in from the bar, a patron of the inn beseeched them all for help, saying that the monsters in the fortress needed to be defeated. Somewhat under the belief that there was treasure in the old fortress, bolstered by Lyara's claims as she attempted to persuade them all to join her, the group set out. Matias agreed to keep the companions adequately supplied with necessities from his merchant's cart, and the trip to the fortress went as smoothly as can be imagined.
+
+
+# Outside the Fortress
+
+The would-be heroes were assailed by three wild dogs, who attacked them on sight. Ben attempted to take most of the damage, being the strongest out of them all, and together they prevailed, Paul and Lyara each dealing the final blow on one of the dogs each. After the dust from the battle had settled, the group could finally gaze upon the fortress and take in its features. 
+
+The fortress was a large structure with three floors. One side of the building was falling down and exposed part of the inner floors. There was an opening that led into a dark dusty room on the first floor, and there was a lively debate as to what the group would do next. After overruling Matias's enthusiastic suggestions to light the fortress on fire, they headed into the dark room they found, lead by Ben. 
